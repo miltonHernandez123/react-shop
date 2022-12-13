@@ -1,0 +1,6 @@
+{
+    "preserts":[
+        "@babel/preserts",
+        "@babel/preserts-react"
+    ]
+}
